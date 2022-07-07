@@ -1,0 +1,16 @@
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.exe
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.deps.json
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.runtimeconfig.json
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.runtimeconfig.dev.json
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.dll
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\ref\console_01.dll
+C:\Users\alberto.canezin\Desktop\console_01\bin\Debug\net5.0\console_01.pdb
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.csproj.AssemblyReference.cache
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.AssemblyInfoInputs.cache
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.AssemblyInfo.cs
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.csproj.CoreCompileInputs.cache
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.dll
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\ref\console_01.dll
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.pdb
+C:\Users\alberto.canezin\Desktop\console_01\obj\Debug\net5.0\console_01.genruntimeconfig.cache
